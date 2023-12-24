@@ -1,5 +1,9 @@
 # Git Commands in Terminal
 
+## To clone repo onto your local machine:
+$ cd ~/Desktop
+$ git clone https://github.com/TooPercentMilk/One-Two-Buckle-My-Shoe.git
+
 ## To download world file:
 $ cd ~/Desktop/One-Two-Buckle-My-Shoe<br>
 $ git pull<br>
