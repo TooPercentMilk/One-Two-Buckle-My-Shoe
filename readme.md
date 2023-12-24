@@ -9,5 +9,5 @@ $ cp ~/Desktop/One-Two-Buckle-My-Shoe/Penis_Palooza.wld ~/Library/Application\ S
 $ cp ~/Library/Application\ Support/Terraria/Worlds/Penis_Palooza.wld ~/Desktop/One-Two-Buckle-My-Shoe<br>
 $ cd ~/Desktop/One-Two-Buckle-My-Shoe<br>
 $ git add ~/Library/Application\ Support/Terraria/Worlds/Penis_Palooza.wld<br>
-$ git commit -m "<your name>"<br>
+$ git commit -m "\<your name\>"<br>
 $ git push origin main<br>
